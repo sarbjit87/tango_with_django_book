@@ -309,7 +309,7 @@ In the button, we have set the class to ``btn`` and ``btn-primary``. If you chec
 
 Other Form-based Templates
 ..........................
-You can apply similar changes to ``add_cagegory.html`` and ``add_page.html`` templates. For the ``add_page.html`` template, we can set it up as follows.
+You can apply similar changes to ``add_category.html`` and ``add_page.html`` templates. For the ``add_page.html`` template, we can set it up as follows.
 
 .. code-block:: html
 
